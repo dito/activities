@@ -1,6 +1,6 @@
 = Introduction
 
-Activities is a gem that enables social activities in ActiveRecord objects.
+activities is a gem that enables social activities in ActiveRecord objects.
 
 = Install
 
